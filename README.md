@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **fauzan-codes/fauzan-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,29 +27,22 @@ Here are some ideas to get you started:
 - 🎓 Informatics Student
 - 🤖 Passionate about AI & Robotics
 - 💻 Focused on Backend Development
-- ⚙️ Building WhatsApp Bot & Automation Systems
+<!--- ⚙️ Building WhatsApp Bot & Automation Systems -->
 - 📍 Indonesia
 
+<!--
 ---
-
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,python,mysql,aws,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,python,git,github,linux" />
 </p>
-
+-->
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fauzan-codes&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan-codes&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fauzan-codes&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fauzan-codes&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan-codes&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -62,13 +53,29 @@ Here are some ideas to get you started:
 - Cloud Architecture (AWS)
 - Scalable Backend Development
 
+<!--
+---
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fauzan-codes&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan-codes&layout=compact&theme=tokyonight" height="165"/>
+</p>
+-->
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fauzan-codes&theme=tokyonight&hide_border=true" />
+</p>
+
+<!--
+---
+![snake gif](https://github.com/fauzan-codes/fauzan-codes/blob/output/github-contribution-grid-snake.svg)
+-->
 ---
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://github.com/fauzan-codes">GitHub</a>
+  <a href="https://github.com/fauzan-codes">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/fauzan-am/">LinkedIn</a>
 </p>
-
----
-
-⭐️ From Fauzan Adhim Muntazhar
