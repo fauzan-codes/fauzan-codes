@@ -14,3 +14,61 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">Hi 👋, I'm Fauzan Adhim Muntazhar</h1>
+<h3 align="center">Informatics Student | Backend Developer | AI & Robotics Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fauzan-codes&label=Profile%20Views&color=0e75b6&style=flat" alt="fauzan-codes" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 Informatics Student
+- 🤖 Passionate about AI & Robotics
+- 💻 Focused on Backend Development
+- ⚙️ Building WhatsApp Bot & Automation Systems
+- 📍 Indonesia
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,python,mysql,aws,git,github,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fauzan-codes&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan-codes&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fauzan-codes&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+- Artificial Intelligence
+- System Design
+- Cloud Architecture (AWS)
+- Scalable Backend Development
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://github.com/fauzan-codes">GitHub</a>
+</p>
+
+---
+
+⭐️ From Fauzan Adhim Muntazhar
