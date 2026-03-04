@@ -37,9 +37,9 @@
 </p>
 
 
-###
+---
 
-<h3 align="left">Play with me :</h3>
+## 👾 Pacman Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/fauzan-codes/fauzan-codes/output/pacman-contribution-graph-dark.svg">
@@ -49,10 +49,20 @@
     src="https://raw.githubusercontent.com/fauzan-codes/fauzan-codes/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://github.com/fauzan-codes">GitHub</a> • 
-  <a href="https://www.linkedin.com/in/fauzan-am/">LinkedIn</a>
+  <a href="https://github.com/fauzan-codes">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://mailto:azharfauzan472@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://www.instagram.com/azhari.oct21/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/fauzan-am/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
 </p>
