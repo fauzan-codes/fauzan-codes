@@ -1,5 +1,5 @@
 <!-- add foto jika sudah ada -->
-<h1 align="center">Hi 👋, I'm Fauzan Adhim Muntazhar</h1>
+<h1 align="center">Hi, I'm Fauzan Adhim Muntazhar</h1>
 <h3 align="center">Informatics Student | Backend Developer | AI & Robotics Enthusiast</h3>
 
 <p align="center">
@@ -9,25 +9,66 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Informatics Student
-- 🤖 Passionate about AI & Robotics
-- 💻 Focused on Backend Development
-- 📍 Indonesia
+I'm an Informatics student with strong interest in backend systems, artificial intelligence, and robotics engineering.
+Currently part of Deworobotic – KRBAI Team (AUV Division), contributing to computer vision development, data training experiments, and autonomous navigation systems.
+
+I enjoy building scalable backend applications and experimenting with AI models using Python, OpenCV, Yolo, and Linux-based environments.
+
+- 🤖 Deworobotic – KRBAI Team (AUV Division)
+- 🧠 Exploring AI, Computer Vision & Automation
+- 💻 Backend-focused developer
+- 🐧 Linux user
+- 📍 Indonesia 
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Programming Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,python,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,c,cs,cpp" />
 </p>
 
 ---
 
-## 🧠 Currently Learning
-- Artificial Intelligence
-- System Design
-- Cloud Architecture (AWS)
-- Scalable Backend Development
+## 🤖 AI & Robotics Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,linux,ros" />
+</p>
+
+Additional tools:
+- Google Colab (Model training & experiments)
+- YOLO (Object detection basics)
+- Data labeling & preprocessing
+
+---
+
+## 🛠 Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+</p>
+
+---
+
+## 🎨 Design & Creative Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+Other tools:
+- Canva  
+- Adobe After Effects  
+
+---
+
+## 📚 Currently Learning
+
+- Artificial Intelligence & Model Optimization  
+- System Design & Backend Architecture  
+- Cloud Computing (AWS basics)  
+- ROS deeper implementation  
 
 ---
 
@@ -52,11 +93,12 @@
 ---
 
 ## 📫 Connect With Me
+
 <p align="center">
   <a href="https://github.com/fauzan-codes">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <a href="https://mailto:azharfauzan472@gmail.com">
+  <a href="mailto:azharfauzan472@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   <a href="https://www.instagram.com/azhari.oct21/">
