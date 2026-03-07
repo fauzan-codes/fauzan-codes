@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 I'm an Informatics student with strong interest in backend systems, artificial intelligence, and robotics engineering.
-Currently part of Deworobotic – KRBAI Team (AUV Division), contributing to computer vision development, data training experiments, and autonomous navigation systems.
+Currently part of Deworobotic - KRBAI Team (AUV Division), contributing to computer vision development, data training experiments, and autonomous navigation systems.
 
 I enjoy building scalable backend applications and experimenting with AI models using Python, OpenCV, Yolo, and Linux-based environments.
 
-- 🤖 Deworobotic – KRBAI Team (AUV Division)
+- 🤖 Deworobotic - KRBAI Team (AUV Division)
 - 🧠 Exploring AI, Computer Vision & Automation
 - 💻 Backend-focused developer
 - 🐧 Linux user
