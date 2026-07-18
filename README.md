@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <font size="6"><b>Hi, I'm Fauzan Adhim Muntazhar</b></font>
+  <h1 style="margin: 0 0 0 0;">Hi, I'm Fauzan Adhim Muntazhar</h1>
   <h3 style="margin: 5px 0 0 0;">Backend Developer • AI & Robotics Enthusiast</h3></br>
 </div>
 
