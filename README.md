@@ -111,7 +111,7 @@
 
 ---
 
-### 📫 Connect With Me
+### 🌐 Connect With Me
 
 [<img src="https://cdn.simpleicons.org/whatsapp/25D366" height="15"/> WhatsApp](https://wa.me/6285859232558)  
 [<img src="https://skillicons.dev/icons?i=gmail" height="15"/> Email](mailto:azharfauzan472@gmail.com)  
