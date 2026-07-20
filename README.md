@@ -59,7 +59,7 @@
 ![YOLO](https://img.shields.io/badge/YOLO-7B2BF9?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-Learning-22314E?style=for-the-badge)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
